@@ -1,4 +1,4 @@
-# **Portafolio de Proyectos Académicos**
+# **Proyectos Académicos**
 
 Este repositorio contiene una selección de proyectos realizados durante mis estudios en Ingeniería Industrial, enfocados en la aplicación de metodologías de gestión, análisis de riesgos y evaluación de la viabilidad de proyectos de inversión.
 
