@@ -1,36 +1,19 @@
-# ESTUDIO ERGONÓMICO DEL PUESTO 'PACK PAPER'
+# **Portafolio de Proyectos Académicos**
 
-Descripción del Proyecto
+Bienvenido/a a mi repositorio de proyectos académicos. Aquí encontrarás una colección de trabajos realizados durante mi formación profesional, abarcando diversas áreas de mi campo de estudio.
 
-Este es un proyecto de práctica supervisada que detalla un estudio de ergonomía en el puesto de trabajo "Pack Paper" de la empresa Tabacalera Espert S.A. El objetivo principal fue identificar y evaluar los riesgos ergonómicos a los que está expuesto el operario, con el fin de proponer mejoras que protejan su salud y seguridad, basándonos en la legislación y metodologías vigentes.
+---
 
-Metodología y Herramientas
+### **Índice de Proyectos**
 
-Para el análisis del puesto de trabajo se aplicaron las siguientes herramientas y normativas:
+* **[Estudio Ergonómico del Puesto "Pack Paper"](./estudio-ergonomico-pack-paper/README.md)**
+    * **Breve descripción:** Un análisis de riesgos en un puesto de trabajo industrial, utilizando metodologías como REBA y el Índice Moore y Garg. **(¡Este es el resumen principal!)**
+    * **Archivos:** `PS- Entrega Final- Romina Elizalde-.pdf`
+    
+* **[Nombre del Proyecto 2](./nombre-del-proyecto-2/README.md)**
+    * **Breve descripción:** Una línea de un par de palabras que describa el proyecto.
+    * **Archivos:** `archivo-del-proyecto-2.pdf`, `archivo-del-proyecto-2.docx`
 
-- Observación directa y entrevistas: Para comprender las tareas y posturas del operario.
-
-- Método REBA (Rapid Entire Body Assessment): Utilizado para evaluar el riesgo de trastornos musculoesqueléticos.
-
-- Índice Moore y Garg: Aplicado para determinar el nivel de riesgo en las tareas de levantamiento de cargas.
-
-Resultados Principales
-
-El análisis del puesto de trabajo mostró un nivel de riesgo "Medio" en las tareas de "Carga de paquetes de cigarrillos" y "Empaquetado". Los factores de riesgo identificados fueron principalmente posturas inadecuadas y movimientos repetitivos.
-
-Propuestas de Mejora
-
-Se propusieron las siguientes medidas correctivas y preventivas para reducir los riesgos:
-
-- Pausas activas: Implementar pausas para reducir la fatiga muscular.
-
-- Capacitación: Brindar formación sobre la manipulación adecuada de cargas y posturas de trabajo.
-
-- Rediseño del área: Evaluar el rediseño de la línea de empaque y la incorporación de sillas industriales para mejorar la postura.
-
-- Altura del pallet: Establecer una altura máxima para los pallets.
-
-Autoría
-Nombre: Romina Elizalde
-
-Fecha de realización: Del 17/05/2021 al 23/07/2021
+* **[Nombre del Proyecto 3](./nombre-del-proyecto-3/README.md)**
+    * **Breve descripción:** Breve descripción del tercer proyecto.
+    * **Archivos:** `...`
