@@ -1,2 +1,2 @@
-# Proyectos-Acad-micos
+# Proyectos-Academicos
 Trabajos universitarios relevantes
